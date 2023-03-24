@@ -95,9 +95,9 @@ exclude:
 ignore:
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: auto
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: anodyne
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
